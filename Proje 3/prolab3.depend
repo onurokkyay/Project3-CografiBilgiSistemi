@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1577300768 source:c:\c denemeler\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577301018 source:c:\users\melih\desktop\prolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577301018 source:c:\users\melih\desktop\melih\Üniversite\programlama laboratuvarý proje 3\pprolab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577400860 source:c:\users\melih\desktop\melih\Üniversite\programlama laboratuvarý proje 3\prolabp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
